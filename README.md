@@ -14,8 +14,7 @@ This competition releases three labelled datasets and two unlabeled test dataset
 
 ## Model
 Our model initially detects word-level language labels for multilingual social media discussions by using a CRF-based fine-tuning technique on top of the weak language labels predicted using langdetect library as depicted follows. Then, the model adopts a rule-based approach to identify code-switching behaviour in multilingual social media discussions. Please see the paper titled "Understanding Multilingual Communities through Analysis of Code-switching Behaviors in Social Media Discussions" to learn more details about the model.
-![](figure.png)
-<img src="https://github.com/amilasilva92/multilingual-communities-by-code-switching/blob/master/figure.png" width="100" height="100"/>
+<img src="https://github.com/amilasilva92/multilingual-communities-by-code-switching/blob/master/figure.png" width="1000" height="1000"/>
 
 ## Training and Prediction
 To train the model and predict the labels for testing instances:
