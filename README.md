@@ -1,5 +1,5 @@
 # Understanding Multilingual Communities through Analysis of Code-switching Behaviors in Social Media Discussions
-![GitHub](https://img.shields.io/github/license/amilasilva92/multilingual-communities-by-code-switching?style=plastic)
+<a href=https://opensource.org/licenses/MIT><img src="https://img.shields.io/github/license/amilasilva92/multilingual-communities-by-code-switching?style=plastic><\a>
 
 This is the [winning submission](https://rapid.cis.unimelb.edu.au/BigDataChallenge/Board.html) of "Understanding Multilingual Communities through Analysis of Code-switching Behaviors in Social Media Discussions", one of the BigData Cup Challenges at IEEE BigData 2019. Please see the [competition webpage](https://rapid.cis.unimelb.edu.au/BigDataChallenge/index.html) to learn more about the challenge.
 
